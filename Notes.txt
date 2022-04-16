@@ -1,0 +1,30 @@
+Website Structure:
+https://www.youtube.com/watch?v=LMygHD-rnbA&t=27s
+
+potential strucure:
+https://www.youtube.com/watch?v=WH6t4nC0Ueg
+
+Animations + Loading:
+https://www.youtube.com/watch?v=QNTeq4QdOsQ
+
+
+
+Final Project Layout:
+
+Background:
+
+As people scroll down it will transition from space to earth sky to a zoom in of us.
+
+
+Content:
+  Portfolio of both of us. 
+
+
+Website Inspiration:
+https://www.awwwards.com/sites/altered-state-machine
+
+https://www.awwwards.com/sites/nesh-the-smart-assistant
+
+https://www.awwwards.com/sites/blast-galaxy
+
+https://www.youtube.com/watch?v=AmHEfTSBXiY

@@ -1,0 +1,25 @@
+
+.Background-black {
+  background-image: url("images/space background.png");  
+  height:1000px;
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-gradient {
+  height: 100vh;
+  width: 100%;
+  background-image: linear-gradient(#011b3c, #00d5ff);
+}
+
+.background-blue {
+  height: 2000vh;
+  width: 100%;
+  background: #00d5ff;
+}
+
+.spaceimg {
+  
+}
