@@ -1,3 +1,6 @@
+*{
+  background: black;
+}
 body{
     overflow-x: hidden;
 }
@@ -48,7 +51,7 @@ body{
     color: white;
     text-align: center !important;
     text-transform: uppercase;
-    margin-right: -20%;
+    
 }
 
 .content-header h1{
@@ -59,14 +62,15 @@ body{
 }
 
 .content-header h2{
-  font-size: 40px;
+  margin-top: 100px;
+  font-size: 25px;
   font-weight: 500;
   color: white;
 }
 
 .content {
   width: 200px;
-  height: auto;
+  height: 900px;
   margin-right: 40px;
 }
 
